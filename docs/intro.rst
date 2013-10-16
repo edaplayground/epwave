@@ -3,8 +3,9 @@ Introduction
 ############
 EPWave (EDA Playground Wave) is a free interactive browser-based wave viewer.
 
-.. image:: _static/epwave.png
-  
+.. image:: https://imageshack.com/a/img689/4015/m608.png
+   :alt: EPWave preview
+
 ********
 Overview
 ********
