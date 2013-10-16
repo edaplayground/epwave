@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# EDA Playground documentation build configuration file, created by
+# EPWave documentation build configuration file, created by
 # sphinx-quickstart on Sun Sep 22 13:41:23 2013.
 #
 # This file is execfile()d with the current directory set to its
@@ -44,7 +44,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'EDA Playground'
+project = u'EPWave'
 copyright = u'2013, Victor EDA'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -106,7 +106,7 @@ html_theme = 'bootstrap'
 # documentation.
 html_theme_options = {
     # Navigation bar title. (Default: ``project`` value)
-    # 'navbar_title': "EDA Playground",
+    # 'navbar_title': "EPWave",
 
     # Tab name for entire site. (Default: "Site")
     'navbar_site_name': "Site",
@@ -236,7 +236,7 @@ html_show_sourcelink = False
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'EDAPlaygrounddoc'
+htmlhelp_basename = 'EPWavedoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -256,7 +256,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'EDAPlayground.tex', u'EDA Playground Documentation',
+  ('index', 'EPWave.tex', u'EPWave Documentation',
    u'Victor EDA', 'manual'),
 ]
 
@@ -286,7 +286,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'edaplayground', u'EDA Playground Documentation',
+    ('index', 'epwave', u'EPWave Documentation',
      [u'Victor EDA'], 1)
 ]
 
@@ -300,8 +300,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'EDAPlayground', u'EDA Playground Documentation',
-   u'Victor EDA', 'EDAPlayground', 'One line description of project.',
+  ('index', 'EPWave', u'EPWave Documentation',
+   u'Victor EDA', 'EPWave', 'One line description of project.',
    'Miscellaneous'),
 ]
 
