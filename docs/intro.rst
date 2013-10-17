@@ -21,6 +21,11 @@ EPWave is a waveform viewer for design and verification engineers. The primary u
 
 More documentation coming soon ...
 
+****
+Demo
+****
+Interactive demo is available at http://demo.epwave.com
+
 ******************************
 Feature Requests and Bug Fixes
 ******************************
