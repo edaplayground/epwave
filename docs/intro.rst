@@ -25,8 +25,8 @@ EPWave is part of the `EDA Playground <http://www.edaplayground.com>`_ tool suit
 Example Waves
 *************
 
-* `Trivial Example <http://www.edaplayground.com/w/s/example/1>`_
-* `OpenCores Example <http://www.edaplayground.com/w/s/example/2>`_
+* `Trivial Example <http://www.edaplayground.com/w/s/example/2>`_
+* `OpenCores Example <http://www.edaplayground.com/w/s/example/1>`_
 
 ******************************
 Feature Requests and Bug Fixes
