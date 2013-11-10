@@ -6,8 +6,7 @@ FAQ
 Can I view the waves from my EDA Playground sim using EPWaves?
 **************************************************************
 
-This feature is coming very soon. You will be able to simulate on EDA Playground, and, after the simulation completes, an EPWave window
-will open with the waves.
+Yes, see :ref:`loading-waves-from-playground`
 
 *********************************
 Which wave formats are supported?
@@ -21,7 +20,8 @@ What are the limits for loading waves?
 
 The \*.vcd file size limit is 20MB. Larger limits are available for private deployments.
 
-If the wave dump contains more than 2000 signals, then the *Signal Filter* must be used when loading.
+If the wave dump contains more than 2000 signals, then only the first 2000 signals will be loaded.
+You may use the *Signal Filter* to load the other signals. See :ref:`loading-waves-from-file-url`
 
 *********************************
 Which web browsers are supported?
@@ -43,6 +43,8 @@ Note: If you're using EDA Playground on a private network, log in with the authe
 *************************************************************************
 How do I get a private deployment of **EPWave** at my company/university?
 *************************************************************************
+
+EPWave is available stand-alone, integrated with popular simulation regression systems, and integrated with EDA Playground.
 
 Please contact `Victor EDA <http://www.victoreda.com>`_
 

@@ -13,11 +13,10 @@ Overview
 
 EPWave is a free interactive browser-based waveform viewer for design and verification engineers. The primary use cases are:
 
+* Run prototype/example code on EDA Playground and view wave results with EPWave.
 * Quickly view waves for simulations that ran in the cloud (private or public).
 
   * Example: EPWave plugs into existing browser-based regression systems.
-
-* (Coming Soon) Run prototype/example code on EDA Playground and view wave results with EPWave.
 
 EPWave is part of the `EDA Playground <http://www.edaplayground.com>`_ tool suite.
 
