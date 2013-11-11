@@ -1,8 +1,7 @@
 ############
 Introduction
 ############
-| *EPWave* web application located at http://www.edaplayground.com/w/
-| *EPWave* Documentation located at http://epwave.readthedocs.org
+| *EPWave* web application located at http://www.edaplayground.com/w
 
 .. image:: https://imageshack.com/a/img594/3637/hpig.png
    :alt: EPWave preview
