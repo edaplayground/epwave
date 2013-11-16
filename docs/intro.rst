@@ -3,8 +3,9 @@ Introduction
 ############
 | *EPWave* web application located at http://www.edaplayground.com/w
 
-.. image:: https://imageshack.com/a/img594/3637/hpig.png
-   :alt: EPWave preview
+.. raw:: html
+
+  <iframe width="1280" height="720" src="//www.youtube.com/embed/WU_p88TSXWo?vq=hd720" frameborder="0" allowfullscreen></iframe>
 
 ********
 Overview
