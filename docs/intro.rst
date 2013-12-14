@@ -27,10 +27,11 @@ Example Waves
 * `Trivial Example <http://www.edaplayground.com/w/s/example/2>`_
 * `OpenCores Example <http://www.edaplayground.com/w/s/example/1>`_
 
-******************************
-Feature Requests and Bug Fixes
-******************************
+****************************************
+Support, Feature Requests, and Bug Fixes
+****************************************
 
+| Support available on `EDA Playground forum <https://groups.google.com/forum/#!forum/eda-playground>`_
 | Request new features and bug fixes here: https://github.com/getvictor/epwave/issues (requires GitHub account).
 | Or `Tweet to @EDAPlayground <https://twitter.com/intent/tweet?screen_name=EDAPlayground>`_
 
