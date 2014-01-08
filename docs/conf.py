@@ -109,7 +109,7 @@ html_theme_options = {
     # 'navbar_title': "EPWave",
 
     # Tab name for entire site. (Default: "Site")
-    'navbar_site_name': "Site",
+    'navbar_site_name': "Site Contents",
 
     # A list of tuples containing pages or urls to link to.
     # Valid tuples should be in the following forms:
@@ -119,6 +119,7 @@ html_theme_options = {
     # Note the "1" or "True" value above as the third argument to indicate
     # an arbitrary url.
     'navbar_links': [
+                     ('Forum', "https://groups.google.com/forum/#!forum/eda-playground", True)
     ],
 
     # Render the next and previous page links in navbar. (Default: true)

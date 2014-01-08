@@ -14,6 +14,16 @@ Which wave formats are supported?
 
 \*.vcd wave format is currently supported. \*.fsdb support is available for private deployments.
 
+***********************************************
+How do I get updates about new EPWave features?
+***********************************************
+New features are frequently being added to EPWave and EDA Playground. Follow the updates on your favorite social media site:
+
+* `@EDAPlayground on Twitter <https://twitter.com/edaplayground>`_
+* `Victor EDA on LinkedIn <http://www.linkedin.com/company/victor-eda>`_
+* `EDA Playground on Facebook <https://facebook.com/edaplayground>`_
+* `EDA Playground on Google+ <https://plus.google.com/+Edaplayground_EPWave>`_
+
 **************************************
 What are the limits for loading waves?
 **************************************
@@ -54,5 +64,8 @@ Private deployments are available **FREE** for academic and non-commercial resea
 I have more questions. How do I get support?
 ********************************************
 
-**EPWave** is actively being improved. If you see a bug or need help, please create a new issue
-at https://github.com/getvictor/epwave/issues or `Tweet to @EDAPlayground <https://twitter.com/intent/tweet?screen_name=EDAPlayground>`_
+**EPWave** is actively being improved. If you need help or have suggestions, support is available on
+`EDA Playground forum <https://groups.google.com/forum/#!forum/eda-playground>`_
+
+If you see a bug, however minor, please post on the forum or
+file a new issue at https://github.com/getvictor/epwave/issues (requires GitHub account)
