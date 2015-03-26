@@ -32,7 +32,7 @@ Support, Feature Requests and Bug Fixes
 ***************************************
 
 | Support available on `EDA Playground forum <https://groups.google.com/forum/#!forum/eda-playground>`_
-| Or open a bug here: https://github.com/getvictor/epwave/issues (requires GitHub account).
+| Or open a bug here: https://github.com/edaplayground/epwave/issues (requires GitHub account).
 
 *********************
 News and Site Updates

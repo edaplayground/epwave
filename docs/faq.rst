@@ -68,4 +68,4 @@ I have more questions. How do I get support?
 `EDA Playground forum <https://groups.google.com/forum/#!forum/eda-playground>`_
 
 If you see a bug, however minor, please post on the forum or
-file a new issue at https://github.com/getvictor/epwave/issues (requires GitHub account)
+file a new issue at https://github.com/edaplayground/epwave/issues (requires GitHub account)
