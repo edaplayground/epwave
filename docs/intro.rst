@@ -40,7 +40,6 @@ News and Site Updates
 New features are frequently being added to EPWave and EDA Playground. Follow the updates on your favorite social media site:
 
 * `@EDAPlayground on Twitter <https://twitter.com/edaplayground>`_
-* `Victor EDA on LinkedIn <http://www.linkedin.com/company/victor-eda>`_
 * `EDA Playground on Facebook <https://facebook.com/edaplayground>`_
 * `EDA Playground on Google+ <https://plus.google.com/+Edaplayground_EPWave>`_
 
@@ -48,4 +47,4 @@ New features are frequently being added to EPWave and EDA Playground. Follow the
 Credits
 *******
 
-**EPWave** was created by Victor Lyuboslavsky.
+**EPWave** was created by Doulos.

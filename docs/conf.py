@@ -45,7 +45,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'EPWave'
-copyright = u'2013, Victor EDA'
+copyright = u'2015, Doulos'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -258,7 +258,7 @@ latex_elements = {
 #  author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'EPWave.tex', u'EPWave Documentation',
-   u'Victor EDA', 'manual'),
+   u'Doulos', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -288,7 +288,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'epwave', u'EPWave Documentation',
-     [u'Victor EDA'], 1)
+     [u'Doulos'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -302,7 +302,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'EPWave', u'EPWave Documentation',
-   u'Victor EDA', 'EPWave', 'One line description of project.',
+   u'Doulos', 'EPWave', 'One line description of project.',
    'Miscellaneous'),
 ]
 

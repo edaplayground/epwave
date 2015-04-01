@@ -20,7 +20,6 @@ How do I get updates about new EPWave features?
 New features are frequently being added to EPWave and EDA Playground. Follow the updates on your favorite social media site:
 
 * `@EDAPlayground on Twitter <https://twitter.com/edaplayground>`_
-* `Victor EDA on LinkedIn <http://www.linkedin.com/company/victor-eda>`_
 * `EDA Playground on Facebook <https://facebook.com/edaplayground>`_
 * `EDA Playground on Google+ <https://plus.google.com/+Edaplayground_EPWave>`_
 
@@ -49,16 +48,6 @@ We are working on providing additional ways to sign into **EDA Playground**. Mea
 account at https://accounts.google.com/SignUp and use that to sign in.
 
 Note: If you're using EDA Playground on a private network, log in with the authentication credentials for your network.
-
-*************************************************************************
-How do I get a private deployment of **EPWave** at my company/university?
-*************************************************************************
-
-EPWave is available stand-alone, integrated with popular simulation regression systems, and integrated with EDA Playground.
-
-Please contact `Victor EDA <http://www.victoreda.com>`_
-
-Private deployments are available **FREE** for academic and non-commercial research purposes.
 
 ********************************************
 I have more questions. How do I get support?
